@@ -1,3 +1,5 @@
+// Given an integer, return an integer  that is the reverse ordering of SVGAnimatedNumberList.
+
 function reverseInt(n) {
     var arr = n.toString().split('').reverse();
  
